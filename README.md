@@ -1,8 +1,8 @@
-![Banner](https://github.com/user-attachments/assets/8d97a02c-f609-457c-aa7b-4ef1a47a042f)
+![Banner](https://github.com/user-attachments/assets/3ed02fd8-89fa-4e79-8214-3706af73f2a7)
 
 [![Issue](https://github.com/user-attachments/assets/d03bf48d-bb9f-41e2-bd3a-4160f81f8774)](https://github.com/Alan-bur/WR/issues/new)
 [![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
-[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://patreon.com/abur?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://www.patreon.com/abur/membership?redirect=true)
 
 
 
