@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/3ed02fd8-89fa-4e79-8214-3706af73f2a7)
+![Banner](https://github.com/user-attachments/assets/ca0d85f0-603a-4efd-bd43-976ddde22fb1)
 
 [![Issue](https://github.com/user-attachments/assets/d03bf48d-bb9f-41e2-bd3a-4160f81f8774)](https://github.com/Alan-bur/WR/issues/new)
 [![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
@@ -35,7 +35,16 @@ This project aims to prevent Room Channel from pixelating on modern screens. It 
 
 
 ## Installation
-[Join our Discord server for support, discussions, and updates! 🚀](https://discord.gg/6sCNcn3FjV)
+1. Download the [latest release](https://github.com/Alan-bur/WR4K/releases/latest/download/HCIJ01.zip).
+2. Move the HCIJ01.zip folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.
+3. Extract the HCIJ01.zip folder. Right click → Extract all → Extract. 
+4. Enable Auto-Adjust Window Size. Go to Dolphin Settings → General.
+5. Enable Load Custom Textures and Prefetch Custom Textures. Go to Dolphin Settings → Graphics → Advanced.
+6. Set Internal Resolution to 4x Native. Go to Dolphin Settings → Graphics → Enhancements.
+7. Load game.
+8. Everything ready to play! 🫧☺️
+
+Still need help? [Watch my video tutorial](https://www.youtube.com/watch?v=TnY6HyZ7034&t=2s) or [join the discord server!](https://discord.gg/6sCNcn3FjV)
 
 ## Known Bugs:
 - City background needs some fix up.
@@ -43,23 +52,12 @@ This project aims to prevent Room Channel from pixelating on modern screens. It 
 - Guest icon's arm is not placed correctly.
 - "Go back" button may look odd in some cases.
 
-## Donations
-Your support enables me to continue enhancing these texture packs, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible.
-https://www.patreon.com/c/abur/membership
+## Early Access & Donations
+This project and all previous versions are completely free. Support through [Patreon](https://www.patreon.com/c/abur/membership) and [Ko-Fi](https://ko-fi.com/abur) helps fund ongoing development and may provide optional early access to the latest updates. The texture pack itself remains publicly available at no cost. <br>
+Thank you for supporting my work. 💖 
 
 ## DISCLAIMER
-This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
-
-#### Fair Use
-This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.
-
-#### Intellectual Property</h4>
-All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact me to resolve the matter amicably.
-
-#### About Donations
-Donations are entirely optional and are meant to support my ongoing work in creating and maintaining fan projects. Donations are not payments for this texture pack and do not grant any special access or benefits related to it.
-
-#### Contact
-For any inquiries or removal requests, please contact: alanbur2020@gmail.com.
+This texture pack is an unofficial fan-made project and is not affiliated with or endorsed by Nintendo. All original content and trademarks belong to their respective owners. This pack contains only hand-created textures and does not include any original files. <br>
+For inquiries or removal requests, please contact: alanbur2020@gmail.com
 
 
